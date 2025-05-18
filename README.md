@@ -1,7 +1,8 @@
 # Warzone Cheat GUI with Aimbot, ESP, No Recoil, Radar
 
 Welcome to the **Warzone Cheat GUI with Aimbot**, a simulation tool designed for developers, testers, and modding enthusiasts interested in understanding how cheat-style trainer menus are structured for games like **Call of Duty: Warzone**.
-
+> 💬 **Join our Discord community for Private version, Support and more!**  
+> 👉 [Click here to join](https://discord.com/servers/elusion-cheats-1174326154207953006)
 This project replicates the **UI and feature layout** of common Warzone cheats with **Aimbot, ESP, No Recoil, Radar** — perfect for educational or research purposes.
 
 ---
