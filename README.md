@@ -8,12 +8,12 @@ This project is a GUI-based automation tool tailored for Call of Duty: Warzone p
 
 ## Table of Contents
 - [Features](#features)
-  - [Aimbot](#Warzoneaimbot)
-  - [Wallhack](#Warzone_wallhack)
-  - [ESP (Enhanced Sensory Perception)](#esp-enhanced-sensory-perception)
-  - [Triggerbot](#Warzone_triggerbot)
-  - [No Recoil](#Warzone_no-recoil)
-  - [Radar](#Warzone_radar)
+  - [Aimbot](#Warzone-aimbot)
+  - [Wallhack](#Warzone-wallhack)
+  - [ESP (Enhanced Sensory Perception)](#Warzone-esp-enhanced-sensory-perception)
+  - [Triggerbot](#Warzone-triggerbot)
+  - [No Recoil](#Warzone-no-recoil)
+  - [Radar](#Warzone-radar)
 - [Usage Instructions](#usage-instructions)
   - [Launching the GUI](#launching-the-gui)
   - [Configuring Features](#configuring-features)
