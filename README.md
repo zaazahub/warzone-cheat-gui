@@ -8,7 +8,7 @@ This project is a GUI-based automation tool tailored for Call of Duty: Warzone p
 
 ## Table of Contents
 - [Features](#features)
-  - [Aimbot](#Warzone_aimbot)
+  - [Aimbot](#Warzoneaimbot)
   - [Wallhack](#Warzone_wallhack)
   - [ESP (Enhanced Sensory Perception)](#esp-enhanced-sensory-perception)
   - [Triggerbot](#Warzone_triggerbot)
