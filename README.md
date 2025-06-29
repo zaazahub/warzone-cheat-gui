@@ -2,7 +2,7 @@
 
 Welcome to the most comprehensive, feature-rich, and advanced **Warzone Cheat** project on GitHub. This repository is a deep-dive into the architecture and methodology behind cheats for **Call of Duty: Warzone**, featuring everything from **pixel-perfect aimbots** to fully customizable **ESP and wallhack systems**. Whether you're an aspiring developer or a reverse-engineering enthusiast, this project will walk you through the intricacies of manipulating game mechanics in real time.
 
-[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.com/servers/elusion-cheats-1174326154207953006)
+[![Join Our Discord](https://img.shields.io/discord/1174326154207953006?color=5865F2\&label=Join%20Discord\&logo=discord\&style=for-the-badge)](https://discord.gg/SfkrK75HNj)
 
 > ⭐ **Features Included:**
 > - 🎯 Aimbot
